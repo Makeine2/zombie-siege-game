@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "res": "Role/1",
+        "defaultWeapon": 4,
+        "lockMoney": 0,
+        "hp": 100,
+        "tips": "男1号",
+        "atk": 3,
+        "hitEff": "eff/1"
+    },
+    {
+        "id": 2,
+        "res": "Role/2",
+        "defaultWeapon": 4,
+        "lockMoney": 0,
+        "hp": 100,
+        "tips": "男2号",
+        "atk": 6,
+        "hitEff": "Eff/1"
+    },
+    {
+        "id": 3,
+        "res": "Role/3",
+        "defaultWeapon": 4,
+        "lockMoney": 400,
+        "hp": 100,
+        "tips": "男3号",
+        "atk": 8,
+        "hitEff": "eff/1"
+    },
+    {
+        "id": 6,
+        "res": "Role/6",
+        "defaultWeapon": 4,
+        "lockMoney": 500,
+        "hp": 100,
+        "tips": "男4号",
+        "atk": 10,
+        "hitEff": "eff/1"
+    }
+]
