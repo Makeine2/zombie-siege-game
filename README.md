@@ -51,13 +51,6 @@
 
 怪物没有为每种外形重做一整套状态机，而是以基础怪物控制器为骨架，使用 `AnimatorOverrideController` 替换不同怪物的动作片段。这样能够在保持逻辑结构一致的前提下，用更低成本支持不同形态的怪物表现。
 
-## 面试中可重点展开的话题
-
-- 为什么 UI 管理用了单例和面板基类
-- JSON 配置和持久化的职责拆分
-- 怪物 AI 中 `NavMeshAgent`、攻击判定和动画事件如何配合
-- `AnimatorOverrideController` 如何做怪物动画复用
-- UI 性能、DrawCall、Canvas 重建和模块解耦的理解
 
 ## 运行环境
 
